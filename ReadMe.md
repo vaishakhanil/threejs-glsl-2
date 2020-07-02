@@ -1,11 +1,6 @@
 # :goggles: THREEJS + GLSL - Shader on Text
 > Shader Materials with Text Geometry!
 
-<h1 align="center">
-    <br/>
-    <a href=""><img src="" alt="Name-Gif"/></a>
-</h1>
-
 Black + White | MultiColor 
 ------------ | ------------- 
 ![Black/White](/gifs/1.webp) | ![multicolor](/gifs/2.webp)

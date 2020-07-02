@@ -11,18 +11,18 @@
 <body>
 
    
-    <div id="container"></div>
+<div id="container"></div>
 
-    <script id="vertexShader" type="x-shader/x-vertex">
+ <script id="vertexShader" type="x-shader/x-vertex">
         varying vec2 vUv;
         void main()	
         {
             vUv = uv;
             gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
         }
-    </script>
+</script>
 
-    <script id="fragmentShader" type="x-shader/x-fragment">
+<script id="fragmentShader" type="x-shader/x-fragment">
         #ifdef GL_ES
         precision mediump float;
         #endif
@@ -40,7 +40,7 @@
             vec3 color = vec3(sin(container.x+container.y),sin(container.x+container.y),sin(container.x+container.y));
             gl_FragColor = vec4(color,1.0);       
         }
-    </script>
+</script>
    
     <script src="./script.js"></script>
 

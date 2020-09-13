@@ -3,7 +3,7 @@
 
 Black + White | MultiColor 
 ------------ | ------------- 
-![Black/White](/gifs/1.webp) | ![multicolor](/gifs/2.webp)
+![Black/White](https://res.cloudinary.com/vaishakhanil/image/upload/v1600025945/githubImages/1_rzvqnq.webp) | ![multicolor](https://res.cloudinary.com/vaishakhanil/image/upload/v1600026278/githubImages/2_1_s5aj22.webp)
 
 ### Fragment Shader & Vertex Shader
 > Fragment Shader from Lewis Lepton Shader Series [Shader](https://www.youtube.com/watch?v=aW_GW5uwWRM)
